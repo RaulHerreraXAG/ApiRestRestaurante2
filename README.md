@@ -1,4 +1,6 @@
 Api de restaurantes 
+
+
 Recursos: El recurso para esta API es creado una base de datos de restaurantes. 
 Los atributos que tiene la tabla de restaurantes son:
 
